@@ -9,12 +9,18 @@
 * 🌐 Design and develop machine learning , deep learning models 
 
   
-  ### Connect with me:
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+  
+ ### Connect with me:
+  
+ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/kholod-alshehri-0a1758226)
+
+
+
 
 
 
  ### Languages and Tools:
+ 
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 
